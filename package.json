@@ -1,0 +1,14 @@
+{
+  "name": "echis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mortada-killer0",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
